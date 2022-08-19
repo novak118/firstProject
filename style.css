@@ -1,0 +1,30 @@
+.naslov {
+    
+     text-align: left;
+     font-size: 1.75rem;
+     font-weight: 500;
+    line-height: 1.2;
+    font-weight: bold;
+}
+   
+
+.datum {
+    color: #6C757D;
+    font-weight: 500;
+    line-height: 1.2;
+    margin:0;
+    font-size: 16px;
+
+}
+.slike{
+text-align: center;
+height: 470px;
+}
+.novo{
+text-align: left;
+}
+.staro {
+    font-style: italic;
+
+
+}
