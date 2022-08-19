@@ -60,7 +60,7 @@ background-color: #f4c141;
     display: flex;
     align-items: center;
     display: flex;
-    padding-left: 70px;
+    padding-left: 80px;
     column-gap: 15px;
 }
 .posao{
@@ -70,18 +70,39 @@ border-top:3px solid #5dd60c;
 display: flex;
     align-items: center;
     display: flex;
-    padding-left: 40px;
+    padding-left: 80px;
     column-gap: 15px;
+}
+.kocka3{
+    width: 12px;
+height: 12px;
+border-radius: 4px;
+background-color: #5DD60C;
+
 }
 .riznica{
 
     font-size: 20px;
     background-color: #E6FBFB;
-    border-top:3px solid #0fd8d5;;
+    border-top:3px solid #0fd8d5;
+    display: flex;
+    align-items: center;
+    display: flex;
+    padding-left: 80px;
+    column-gap: 15px;
+}
+.kocka4{
+    width: 12px;
+height: 12px;
+border-radius: 4px;
+background-color: #0FD8D5;
 }
 
-.sirina{
 
+
+
+
+.sirina{
     line-height: 1.75rem;
     padding: 0.5rem !important;
     margin-left: auto !important;
@@ -89,7 +110,4 @@ display: flex;
     max-width: 1140px;
     -webkit-box-shadow: 0px 0px 17px 5px rgba(0,0,0,0.44); 
 box-shadow: 0px 0px 17px 5px rgba(0,0,0,0.44);
-
-
-
 }
