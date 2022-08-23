@@ -37,7 +37,8 @@ text-align: left;
     align-items: center;
     display: flex;
     padding-left: 40px;
-    column-gap: 15px;
+    column-gap: 5px;
+   
 
 }
 .kocka{
@@ -45,6 +46,19 @@ width: 12px;
 height: 12px;
 background-color: #f44842;
 border-radius: 4px;
+}
+.lista-naslovna li::before{
+    content :""; 
+    background-color:#f44842;
+    display: inline-block; 
+    width: 8px; 
+    height: 8px;
+    margin-left:10px ; 
+   border-radius: 35%;
+   margin-right: 10px;
+
+
+
 }
 .kocka2{
     width: 12px;
@@ -60,8 +74,22 @@ background-color: #f4c141;
     display: flex;
     align-items: center;
     display: flex;
-    padding-left: 80px;
-    column-gap: 15px;
+    padding-left: 40px;
+    column-gap: 5px;
+}
+.lista-vijesti li::before{
+    content :""; 
+        background-color:#f4c141;
+        display: inline-block; 
+        width: 8px; 
+        height: 8px;
+        margin-left:10px ; 
+       border-radius: 35%;
+       margin-right: 10px;
+
+
+
+
 }
 .posao{
 font-size: 20px;
@@ -70,14 +98,29 @@ border-top:3px solid #5dd60c;
 display: flex;
     align-items: center;
     display: flex;
-    padding-left: 80px;
-    column-gap: 15px;
+    padding-left: 40px;
+    column-gap: 5px;
 }
 .kocka3{
     width: 12px;
 height: 12px;
 border-radius: 4px;
 background-color: #5DD60C;
+
+}
+.lista-posao li::before{
+    content :""; 
+        background-color: #5dd60c; 
+      font-size: 25px;
+        display: inline-block; 
+        width: 8px; 
+        height: 8px;
+        margin-left:10px ; 
+       border-radius: 35%;
+       margin-right: 10px;
+
+
+
 
 }
 .riznica{
@@ -88,8 +131,9 @@ background-color: #5DD60C;
     display: flex;
     align-items: center;
     display: flex;
-    padding-left: 80px;
-    column-gap: 15px;
+    padding-left: 40px;
+    column-gap: 10px;
+    
 }
 .kocka4{
     width: 12px;
@@ -97,6 +141,7 @@ height: 12px;
 border-radius: 4px;
 background-color: #0FD8D5;
 }
+
 
 
 
@@ -111,3 +156,28 @@ background-color: #0FD8D5;
     -webkit-box-shadow: 0px 0px 17px 5px rgba(0,0,0,0.44); 
 box-shadow: 0px 0px 17px 5px rgba(0,0,0,0.44);
 }
+ul{
+
+list-style: none ;
+
+
+}
+
+.lista-riz li::before {
+    content :""; 
+        background-color: #0fd8d5; 
+      font-size: 25px;
+        display: inline-block; 
+        width: 8px; 
+        height: 8px;
+        margin-left:10px ; 
+       border-radius: 35%;
+       margin-right: 10px;
+       
+        
+      }
+
+      li{
+        display: flex;
+        align-items: center;
+      }
