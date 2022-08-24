@@ -141,10 +141,125 @@ height: 12px;
 border-radius: 4px;
 background-color: #0FD8D5;
 }
+.utisci{
+    font-size: 20px;
+    background-color: #E6FBFB;
+    border-top:3px solid #1961d6;
+    display: flex;
+    align-items: center;
+    display: flex;
+    padding-left: 40px;
+    column-gap: 10px;
+}
+.lista-utisci li::before{
+    content :""; 
+        background-color: #1961d6; 
+      font-size: 25px;
+        display: inline-block; 
+        width: 8px; 
+        height: 8px;
+        margin-left:10px ; 
+       border-radius: 35%;
+       margin-right: 10px;
+
+}
+.kocka5{
+    width: 12px;
+    height: 12px;
+    border-radius: 4px;
+    background-color:#1961d6
 
 
 
+}
+.lista-sport li::before{
+    content :""; 
+        background-color: #c4158d; 
+      font-size: 25px;
+        display: inline-block; 
+        width: 8px; 
+        height: 8px;
+        margin-left:10px ; 
+       border-radius: 35%;
+       margin-right: 10px;
+}
+.sport{
+    font-size: 20px;
+    background-color: #E6FBFB;
+    border-top:3px solid #c4158d;
+    display: flex;
+    align-items: center;
+    display: flex;
+    padding-left: 40px;
+    column-gap: 10px;
+}
+.kocka6{
+    width: 12px;
+    height: 12px;
+    border-radius: 4px;
+    background-color:#c4158d;
+}
+.lista-magazin li::before{
+    content :""; 
+    background-color:#6c18bf;
+    font-size: 25px;
+    display: inline-block; 
+    width: 8px; 
+    height: 8px;
+    margin-left:10px ; 
+   border-radius: 35%;
+   margin-right: 10px;
 
+
+
+}
+.magazin{
+    font-size: 20px;
+    background-color: #E6FBFB;
+    border-top:3px solid #6c18bf;
+    display: flex;
+    align-items: center;
+    display: flex;
+    padding-left: 40px;
+    column-gap: 10px;
+}
+.kocka7{
+    width: 12px;
+    height: 12px;
+    border-radius: 4px;
+    background-color:#6c18bf;
+}
+.lista-spektar li::before{
+    content :""; 
+    background-color:#cc0a3a;
+    font-size: 25px;
+    display: inline-block; 
+    width: 8px; 
+    height: 8px;
+    margin-left:10px ; 
+   border-radius: 35%;
+   margin-right: 10px;
+
+
+}
+.spektar{
+    font-size: 20px;
+    background-color: #E6FBFB;
+    border-top:3px solid #cc0a3a;
+    display: flex;
+    align-items: center;
+    display: flex;
+    padding-left: 40px;
+    column-gap: 10px;
+}
+.kocka8{
+    width: 12px;
+    height: 12px;
+    border-radius: 4px;
+    background-color:#cc0a3a;
+}
+
+    
 
 
 .sirina{
