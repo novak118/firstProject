@@ -308,7 +308,7 @@ list-style: none ;
     padding: 0.5rem !important;
     margin-left: auto !important;
     margin-right: auto !important;
-    max-width: 1140px;
+    max-width: 2000px;
     -webkit-box-shadow: 0px 0px 17px 5px rgba(0,0,0,0.44); 
 box-shadow: 0px 0px 17px 5px rgba(0,0,0,0.44);
 
@@ -316,8 +316,177 @@ box-shadow: 0px 0px 17px 5px rgba(0,0,0,0.44);
 
 
       .prvo{
-   
-        color: #0FD8D5;
+        color: #0e4b83!important;
+        font-size: .8rem!important;
+        font-weight: 600!important;
+        text-align: center;
+        text-transform: uppercase;
+        white-space: nowrap;   
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    column-gap: 5px;     
+    }
+    .linija{
+        border-top: 3px solid #f44842;
+        display: flex;
+justify-content: center;
+  width: 100px !important;
+    }
         
-      
+        .linija1{
+            border-top: 2px solid #f4c141;
+            display: flex;
+    justify-content: center;
+      width: 100px !important;
+
+
+        }
+      .drugo{
+        color: #0e4b83!important;
+        font-size: .8rem!important;
+        font-weight: 600!important;
+        text-align: center;
+        text-transform: uppercase;
+        white-space: nowrap;   
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    column-gap: 5px;  
+
+      }
+      .linija2{
+        border-top: 2px solid #5dd60c;
+        display: flex ;
+justify-content: center;
+  width: 100px !important;  
+      }
+      .linija3{
+        border-top: 2px solid #0fd8d5;
+            display: flex;
+    justify-content: center;
+      width: 100px !important;
+
+      }
+      .linija4{border-top: 2px solid #1961d6;
+        display: flex;
+justify-content: center;
+  width: 100px !important;
+}
+.linija5{
+    border-top: 2px solid #c4158d;
+            display: flex;
+    justify-content: center;
+      width: 100px !important;
+
+}
+.linija6{
+    border-top: 2px solid #6c18bf;
+            display: flex;
+    justify-content: center;
+      width: 100px !important;
+
+
+}
+.linija7{
+    border-top: 2px solid #cc0a3a;
+            display: flex;
+    justify-content: center;
+      width: 100px !important;
+
+
+
+
+}
+      .trece{
+        color: #0e4b83!important;
+        font-size: .8rem!important;
+        font-weight: 600!important;
+        text-align: center;
+        text-transform: uppercase;
+        white-space: nowrap;   
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    column-gap: 5px;  
+
+      }
+    .cetvrti{
+        color: #0e4b83!important;
+        font-size: .8rem!important;
+        font-weight: 600!important;
+        text-align: center;
+        text-transform: uppercase;
+        white-space: nowrap;   
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    column-gap: 5px;  
+
+
+    }
+    .peti{
+
+        color: #0e4b83!important;
+        font-size: .8rem!important;
+        font-weight: 600!important;
+        text-align: center;
+        text-transform: uppercase;
+        white-space: nowrap;   
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    column-gap: 5px;  
+
+    }
+    .sesti{
+        color: #0e4b83!important;
+        font-size: .8rem!important;
+        font-weight: 600!important;
+        text-align: center;
+        text-transform: uppercase;
+        white-space: nowrap;   
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    column-gap: 5px;  
+
+
+    }
+    .sedmi{
+        color: #0e4b83!important;
+        font-size: .8rem!important;
+        font-weight: 600!important;
+        text-align: center;
+        text-transform: uppercase;
+        white-space: nowrap;   
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    column-gap: 5px; 
+
+    }
+    .osmi{
+        color: #0e4b83!important;
+        font-size: .8rem!important;
+        font-weight: 600!important;
+        text-align: center;
+        text-transform: uppercase;
+        white-space: nowrap;   
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    column-gap: 5px;  
+
+    }
+    .sve{
+        text-align: center;
     }
